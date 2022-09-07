@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "fname": "Mera",
+      "lname": "Gaon",
+      "phone": "9810153260",
+      "id": 1
+    },
+    {
+      "fname": "Vikash",
+      "lname": "Rai",
+      "phone": "9454182280",
+      "id": 2
+    },
+    {
+      "fname": "First",
+      "lname": "Last",
+      "phone": "9988774422",
+      "id": 3
+    },
+    {
+      "fname": "Abhinav",
+      "lname": "Rai",
+      "phone": "8299505490",
+      "id": 4
+    }
+  ]
+}
